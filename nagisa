@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <title>浜村渚の計算ノート</title>
+        <link rel="stylesheet" href="nagisa.css">
+    </head>
+    <body>    
+        <header>
+            <h1>浜村渚の計算ノート</h1>
+        </header>
+        <section class="nagisa1">
+            <img src="nagisa%201.jpg" width="300px";>
+            <p>「数学の地位向上のため国民全員を人質とする。」天才数学者・高木源一郎が始めた、｢黒い三角定規｣によるテロ活動。なんと、彼が作った有名教育ソフトで学んだ日本人は予備催眠をかけられており、黒い三角定規による命令次第で殺人の加害者にも被害者にもなるというのだ。つまり、隣人が殺人者になるのは｢同様に確からしい｣というわけだ。そんな中、警視庁が探し出したのは、｢数学大得意少女｣である一人の女子中学生だったー! 新時代数学ミステリー!!</p>
+        </section>
+        <footer>
+        &copy;amana</footer>
+    </body>
+</html>
