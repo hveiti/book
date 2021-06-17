@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <title>守り人シリーズ</title>
+        <link rel="stylesheet" href="moribito.css">
+    </head>
+    <body>    
+        <header>
+            <h1>守り人シリーズ</h1>
+        </header>
+        <section class="moribito" id="moribito">
+            <img src="moribito.jpg" width="300px";>
+            <p>短槍使いで女用心棒のバルサは、青弓川に流された新ヨゴ皇国の第二皇子チャグムを救う。彼はその身にこの世（サグ）と重なって存在する異世界（ナユグ）の水の精霊の卵を宿していた。バルサは幼いチャグムをチャグムの父である帝から放たれた刺客や異界の魔物から守るため、体を張って戦い続ける。痛快で新しい冒険物語。</p>
+        </section>
+        <footer>
+        &copy;amana</footer>
+    </body>
+</html>
