@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height:100vh;
+    background-color: cornflowerblue;
+    background-size: cover;
+    overflow: hidden;
+    font-size: 60px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+header h1{
+    padding-top: 100px;
+}
+
+nav ul{
+    background-color: whitesmoke;
+    background-size: cover;
+    overflow: hidden;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+nav a{
+    background-size: cover;
+    overflow: hidden;
+    color: cornflowerblue;
+}
+
+nav li{
+    background-size: cover;
+    overflow: hidden;
+    font-size: 27px;
+    display: inline-block;
+    padding-right: 50px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.why{
+    height:40vh;
+    background-color:coral;
+    background-size: cover;
+    overflow: hidden;
+    color: whitesmoke;
+    text-align: center;
+}
+
+h2{
+    font-size: 40px;
+    padding: 30px;
+}
+
+
+.best{
+    height:120vh;
+    background-color: skyblue;
+    background-size: cover;
+    overflow: hidden;
+    font-size:50px;
+    color: white;
+    text-align: center;
+}
+
+.best h3{
+    font-size: 25px;
+    color:floralwhite;
+    
+}
+
+.others{
+    height: 250vh;
+    background-color: cornflowerblue;
+    background-size: cover;
+    overflow: hidden;
+    font-size:50px;
+    color:whitesmoke;
+    text-align: center;
+
+}
+
+.others li{
+    font-size: 25px;
+    text-align: left;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+.others p{
+    font-size: 21px;
+    text-align: left;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+.best div{
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+    float: left;
+}
+
+
+footer{
+    text-align: center;
+    height: 31px;
+    color: cornflowerblue;
+    background: whitesmoke;;
+    font-size: 24px;
+}
+
+.kino{
+    height: 70vh;
+    background-color: white;
+    background-size: cover;
+    overflow: hidden;
+    font-size: 50px;
+    color: dodgerblue;
+    text-align: center;
+}
+
+.kino2{
+    height: 79vh;
+    background-color: white;
+    background-size: cover;
+    overflow: hidden;
+    font-size: 50px;
+    color: dodgerblue;
+    text-align: center;
+}
+
+.moribito{
+    height:95vh; 
+    background-color:lightblue;
+    background-size: cover;
+    overflow: hidden;
+    font-size: 90px;
+    color: mediumblue;
+    text-align: center;
+}
+
+.nagisa{
+    font-size: 20px;
+    color:black;
+    text-align: left;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+.kino3{
+    height: 55vh;
+    overflow: hidden;
+    font-size: 22px;
+    color: black;
+    text-align: left;
+    padding-left: 55px;
+    padding-right: 55px;
+}
