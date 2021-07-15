@@ -44,7 +44,7 @@ nav li{
 
 .why{
     height:40vh;
-    background-color:coral;
+    background-color: coral;
     background-size: cover;
     overflow: hidden;
     color: whitesmoke;
@@ -166,9 +166,13 @@ footer{
     background-color: cornflowerblue;
     background-size: cover;
     overflow: hidden;
-    font-size:20px;
-    color:whitesmoke;
+    color: whitesmoke;
     text-align: center;
     padding: 10px;
     margin: 5px;
+}
+
+.something p{
+    font-size: 20px;
+    text-align: left;
 }
