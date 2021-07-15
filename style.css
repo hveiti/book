@@ -165,12 +165,9 @@ footer{
     background-color: cornflowerblue;
     background-size: cover;
     overflow: hidden;
+    font-size: 45px;
     color: whitesmoke;
     text-align: center;
     padding: 10px;
     margin: 5px;
-}
-
-.something p{
-     text-align: left;
 }
